@@ -3,3 +3,4 @@
 # Don't copy our dockerfile or bakefile
 Dockerfile
 docker-bake.hcl
+.dockerignore
